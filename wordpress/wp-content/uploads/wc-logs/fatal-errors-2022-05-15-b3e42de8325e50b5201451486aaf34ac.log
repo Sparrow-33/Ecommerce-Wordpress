@@ -1,0 +1,2 @@
+2022-05-15T23:20:06+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 14684160 bytes) dans C:\wamp64\www\Brief9\wordpress\wp-includes\functions.php à la ligne 4195
+
